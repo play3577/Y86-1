@@ -1,7 +1,5 @@
 # **Y86 CPU模拟器：**
 
-![Y86](https://github.com/AaronHeee/Y86/blob/master/img/Y86.png)
-
 ## **功能实现：**
 
 ### **1.汇编器**
@@ -18,6 +16,8 @@
 * 数据转发
 * 分支预测错误
 * 处理冒险
+
+![Y86](https://github.com/AaronHeee/Y86/blob/master/img/Y86.png)
 
 ### **3.Y86界面**
 
