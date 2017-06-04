@@ -37,17 +37,6 @@ HEADERS  += mainwindow.h \
 FORMS    += mainwindow.ui
 
 RESOURCES += \
-    image.qrc \
-    icon.qrc
+    background.qrc
 
-DISTFILES += \
-    ../Pictures/Screenshot from 2016-12-15 01-17-00.png \
-    ../Pictures/Screenshot from 2016-12-15 01-15-05.png \
-    ../Pictures/Screenshot from 2016-12-15 01-14-12.png \
-    ../Pictures/Screenshot from 2016-12-15 01-13-11.png \
-    ../Pictures/Screenshot from 2016-12-15 01-12-36.png \
-    ../Pictures/Screenshot from 2016-12-15 01-17-00.png \
-    ../Pictures/Screenshot from 2016-12-15 01-15-05.png \
-    ../Pictures/Screenshot from 2016-12-15 01-14-12.png \
-    ../Pictures/Screenshot from 2016-12-15 01-13-11.png \
-    ../Pictures/Screenshot from 2016-12-15 01-12-36.png
+

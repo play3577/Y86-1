@@ -173,7 +173,6 @@ QString regToString(char a,QLabel *l){
     return changeColor(b,l);
 }
 
-
 QString statToString(char a,bool stall=0){
     QString b;
     switch (a){
@@ -351,7 +350,6 @@ void MainWindow::connectPipe(QString str){
 }
 
 void MainWindow::openText(QString f){
-    //f="/home/aaron/build-Y86_1-Desktop_Qt_5_7_0_GCC_64bit-Debug/test code/buff.yo";
     f="out.yo";
     QFile file(f);
     if(!file.open(QFile::ReadOnly | QFile::Text))
